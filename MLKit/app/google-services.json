@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4772497623",
+    "project_id": "ml-kit-2e93c",
+    "storage_bucket": "ml-kit-2e93c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4772497623:android:a39b9069581f214fac0892",
+        "android_client_info": {
+          "package_name": "com.trinhthanhnam.mlkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuhl-JjE5EKv2Wfbi8o4rm6DveDuOlnE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
